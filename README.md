@@ -1,5 +1,5 @@
 <h1 align="center">Namaste 🙏 I'm Kedar Kulkarni.</h1>
-<h3 align="center">A Passionate & Curious Web Developer, interested in learning latest Web technologies🌐</h3>
+<h3 align="center">A Passionate & Curious Web Developer, excited to learn latest Web technologies🌐</h3>
 <p align="left"> 
   <a href="https://www.linkedin.com/in/kedark152/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kedark152" /></a> 
   <a href="https://twitter.com/Kulkarni12Kedar" target="blank"><img src="https://img.shields.io/twitter/follow/Kulkarni12Kedar?logo=twitter&style=for-the-badge" alt="Kulkarni12Kedar" />
