@@ -16,7 +16,7 @@
 
 - ✍🏻 Created several projects based on **HTML, CSS, Javascript, ReactJs & Redux Tool Kit**
 
-- 📚 Open for Frontend Developer Job Opportunities**
+- 📚 Open for **Frontend Developer Job Opportunities**
 
 
 ## Languages and Tools : 
