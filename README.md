@@ -14,9 +14,9 @@
 
 - 🌱 Learning **Web development in neoG.camp** from Tanay Pratap.
 
-- ✍🏻 Created several projects based on **HTML, CSS, Javascript and ReactJs.**
+- ✍🏻 Created several projects based on **HTML, CSS, Javascript, ReactJs & Redux Tool Kit**
 
-- 📚 Currently learning **NodeJs, ExpressJs and MongoDb.**
+- 📚 Open for Frontend Developer Job Opportunities**
 
 
 ## Languages and Tools : 
