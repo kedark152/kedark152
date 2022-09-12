@@ -10,7 +10,7 @@
 ## About Me : 
 - 🎓 Completed Engineering in 2019 from Vidyalankar Institute of Technology, Mumbai.
 
-- 💻 Worked as a **Software Test Engineer in LTI** for 2+ years.
+- 💻 Worked as a **Software Engineer in LTI** for 2+ years.
 
 - 🌱 Learning **Web development in neoG.camp** from Tanay Pratap.
 
